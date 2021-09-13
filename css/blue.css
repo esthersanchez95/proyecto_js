@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/galaxia.jpg);
+    background-attachment: fixed;
+}
+
+#logo{
+    background-color: #0b2849;
+}
+
+#menu ul li:hover{
+    background-color: #0b2849;
+    
+}
+
+.button-more{
+    background-color: #0b2849;
+}
+
+.ui-state-active{
+    background: #0b2849;
+}

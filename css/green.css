@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/tiles.jpg);
+    background-attachment: fixed;
+}
+
+#logo{
+    background-color: #0b4927;
+}
+
+#menu ul li:hover{
+    background-color: #0b4927;
+    
+}
+
+.button-more{
+    background-color: #0b4927;
+}
+
+.ui-state-active{
+    background: #0b4927;
+}

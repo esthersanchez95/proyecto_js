@@ -1,0 +1,21 @@
+body{
+    background-image: url(../img/bokeh.jpg);
+    background-attachment: fixed;
+}
+
+#logo{
+    background-color: #490b28;
+}
+
+#menu ul li:hover{
+    background-color: #490b28;
+    
+}
+
+.button-more{
+    background-color: #490b28;
+}
+
+.ui-state-active{
+    background: #490b28;
+}
